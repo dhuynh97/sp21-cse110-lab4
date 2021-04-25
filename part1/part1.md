@@ -1,4 +1,4 @@
-Part 1a
+## Part 1a
 
 1. values added: 20
 2. final result: 20
@@ -7,7 +7,7 @@ Part 1a
 5. Error, we are trying to reassign const variable
 6. Error, we are trying to reassign const variable
 
-Part 1b
+## Part 1b
 
 1. it will print out what index var i ended at which is the length of prices[] array which is 3.
 2. It will print out discountedPrice which is 150.
